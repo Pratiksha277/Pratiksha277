@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratiksha Deshmukh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p>🔭 Currently working on: <strong>E-Learning Platform</strong></p>
         <p>🌱 Currently learning: <strong>Azure & Angular</strong></p>
