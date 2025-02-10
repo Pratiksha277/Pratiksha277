@@ -1,3 +1,4 @@
+![Pratiksha Deshmukh (2)](https://github.com/user-attachments/assets/64365c87-1a69-4cb0-8be1-3fd301eddc1e)
 
 <h1 align="center">Hi 👋, I'm Pratiksha Deshmukh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
