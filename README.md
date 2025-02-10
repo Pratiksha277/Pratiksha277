@@ -1,25 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
-<body>
-    <div class="container">
-        <h1>🚀 Hi, I'm Pratiksha!</h1>
-        <h3>💡 Passionate Software Developer | Tech Enthusiast | Java Lover</h3>
-        <p>🔭 Currently working on: <strong>E-Learning Platform</strong></p>
+
+
+<h1 align="center">Hi 👋, I'm Pratiksha Bhausaheb Deshmukh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+
+<p>🔭 Currently working on: <strong>E-Learning Platform</strong></p>
         <p>🌱 Currently learning: <strong>Azure & Angular</strong></p>
         <p>💬 Ask me about: <strong>Java, Backend Development, Cloud Computing</strong></p>
         <p>📫 Reach me at: <strong>pratikshadeshmukh.nbnssoe.comp@gmail.com</strong></p>
         <p>⚡ Fun Fact: <em>I believe in "Commit & Push" – both in life and GitHub! 😆</em></p>
 
-      
-### 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pratikshadeshmukhpune/)
-- [Kaggle](https://www.kaggle.com/pratikshadeshmukh11)
-- [HackerRank](https://www.hackerrank.com/profile/pratikshadeshm10)
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratiksha-bhausaheb-deshmukh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pratiksha Bhausaheb Deshmukh" height="20" width="40" />
+       <a href="https://www.hackerrank.com/pratiksha_deshmukh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Pratiksha Deshmukh HackerRank" height="30" width="40" />
+  </a>
+  </a>
+  <a href="https://www.kaggle.com/pratikshadeshmukh" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Pratiksha Deshmukh Kaggle" height="20" width="40" />
+  </a>
+
+</p>
+
 
 ### 🛠 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
