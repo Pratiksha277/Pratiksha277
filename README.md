@@ -1,4 +1,3 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQG13MvxZ0ZzhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733319532987?e=1744848000&v=beta&t=LYIkpvCkKbjvbnadFEe6K0lrUBfFxCMepLZ-4qPJErk)
 
 <h1 align="center">Hi 👋, I'm Pratiksha Deshmukh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
