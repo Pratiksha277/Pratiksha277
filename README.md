@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Pratiksha Bhausaheb Deshmukh</h1>
+<h1 align="center">Hi 👋, I'm Pratiksha Deshmukh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -24,13 +24,13 @@
 
 </p>
 
+<h3 align="left">🛠 Tech Stack & Tools:</h3>
 
-### 🛠 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-## 🛠 Tech Stack & Tools  
+
 
 ### 🚀 Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
